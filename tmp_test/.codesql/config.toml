@@ -1,0 +1,5 @@
+[save]
+max_indexed_file_size_bytes = 2097152
+
+[analyzers]
+enabled = ["PlainText", "Rust", "TypeScript/JavaScript"]
